@@ -1,24 +1,64 @@
-# Facebook Phishing Script
+<p align="left">
+<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/nexphisher.png"></a>
+</p>
+<p align="center">
+<a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="#"><img title="Language" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103"></a>
+<a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
+<a href="https://github.com/htr-tech/nexphisher/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/nexphisher?color=red&style=flat-square"></a>
+<a href="https://github.com/htr-tech/nexphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/nexphisher?color=red&style=flat-square"></a>
+<a href="https://github.com/htr-tech/nexphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/nexphisher?label=Watchers&color=blue&style=flat-square"></a>
+</p>
 
-Please dont use this script to hack someone's ID, I have created this script only to practice when I was learing php back in 2013.
+## Installation :
 
+* `apt update`
+* `apt install git -y`
+* `git clone git://github.com/htr-tech/nexphisher.git`
+* `cd nexphisher`
+#### > SETUP : `bash setup`
+#### > SETUP [TERMUX] : `bash tmux_setup`
+#### > Run : `bash nexphisher`
 
-<h2>Instructions</h2>
-1. Edit do_action.php and replace YOUR_EMAIL_ADDRESS with the email you want to recieve access.
+## Single Command :
+```
+apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
+```
+<br>
+<p align="center">
+<img width="50%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher1.png"/>
+<img width="46%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher2.png"/>
 
-2. Upload it to a PHP supported web server.
+### <<< If you copy , Then Give me The Credits >>>
 
-<h2>FAQ</h2>
+## Features :
+#### [+] Latest Login Pages !
+#### [+] 5 Port Forwarding Options !
+#### [+] Easy for Beginners !
 
-Q. I am not recieving antything. <br>
-A: Probaly no one entered their access. Sometimes, mail ends up in SPAM folder. Check SPAM of your inbox
+## Credits :
+#### > Zphisher (https://github.com/htr-tech/zphisher)
+#### > The Linux Choice (https://github.com/thelinuxchoice)
+#### > DarkSecDevelopers (https://github.com/DarkSecDevelopers)
+#### > Undeadsec (https://github.com/Undeadsec)
 
+## Tunelling Options :
+#### > Localhost (127.0.0.1)
+#### > NGROK (https://ngrok.com)
+#### > SERVEO (https://serveo.net)
+#### > LOCALHOSTRUN (https://localhost.run)
+#### > LOCALXPOSE (https://localxpose.io/)
 
-
-## Disclaimer
-***This tool is developed for educational purposes. It only demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities, use it with your own responsibility and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of fb-phishing!***
-
-
-
+## Find Me on :
+[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
+[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
 
 
